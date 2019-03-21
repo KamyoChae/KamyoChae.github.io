@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/iBlog"
-url: "https://kamyochae.github.io"
+url: "https://kamyochae.github.io/"
 title: Kam on iBlog
 description: "那时我俩未相逢 不知此生路长谁与共" # used by search engines
 
