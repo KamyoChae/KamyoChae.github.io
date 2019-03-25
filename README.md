@@ -1,7 +1,8 @@
 以前的博客仓库叫 Blog-on-github， 写了篇关于webstorm的文章，然后整个博客就被封禁了，本来github上面绿油油一大片的，现在变成了星星点点~~未免有些失落。好在之前有备份过博客文章，尽管如此还是有十多篇文章找不回来了。
 
 
-### 博客文章全都在这--[进入](https://github.com/KamyoChae/kamyochae.github.io/tree/master/_posts)(进[博客](https://kamyochae.github.io/)看不见文章图片可以点这里找到)
+### 博客文章全都在这--[进入](https://github.com/KamyoChae/kamyochae.github.io/tree/master/_posts)
+(进[博客](https://kamyochae.github.io/)看不见文章图片可以点这里找到)
 
 
 
