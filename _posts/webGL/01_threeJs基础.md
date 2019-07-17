@@ -13,6 +13,9 @@ threeJs 框架中分 光源 相机 渲染器 几何体 材质 场景 等对象
  简单来说 webgl最为强大 
  另外三种兼容性最好 但存有一定局限性 
  
+ ```html
+<div id="retina"></div> 
+```
  ```javascript
  let renderer // 渲染器 
  let width 
@@ -31,3 +34,6 @@ threeJs 框架中分 光源 相机 渲染器 几何体 材质 场景 等对象
  
  ```
  
+创建相机 
+相机的作用相当于人眼 决定了观察的视觉和位置 
+
