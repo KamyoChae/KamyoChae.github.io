@@ -58,7 +58,7 @@
 # 微信小程序
 很久以前玩的小项目，用的是聚合接口
 
-[微信小程序 霓远音舍](https://github.com/KamyoChae/Mini-Program_NiYuan)（微信可搜）
+[微信小程序 霓远音舍](https://github.com/KamyoChae/Mini-Program_NiYuan) 
 
 [微信小程序 小笑话](https://github.com/KamyoChae/weixin-jokeChoba)
 
